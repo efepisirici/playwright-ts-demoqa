@@ -18,7 +18,7 @@ Before setting up the project, ensure you have the following tools installed:
 
 To get a local copy up and running, follow these simple steps:
 
-1. Clone the repo: `git clone [repository_link]`
+1. Clone the repo: `git clone https://github.com/efepisirici/playwright-ts-demoqa.git`
 2. Navigate to the project directory
 
 ## Installation 🛠️
