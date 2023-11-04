@@ -1,0 +1,22 @@
+{
+  "name": "efe-pisirici-gm-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test --headed",
+    "test:ui": "npx playwright test e2e/ui --headed",
+    "test:api": "npx playwright test e2e/api"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.38.1",
+    "@types/node": "^20.6.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+  
+}
