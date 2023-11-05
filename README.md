@@ -4,7 +4,7 @@ Welcome to the playwright-ts-demoqa repository. This suite uses Playwright for e
 
 ## Introduction 📘
 
-playwright-ts-demoqa's automated testing suite is essential for validating the functionality and performance of our web application. For an in-depth look at the test cases and please refer to our detailed documentation [here for ui](e2e\ui\UITestScenariosDescription.md) and  [here for api](e2e\api\APITestScenariosDescription.md)..
+playwright-ts-demoqa's automated testing suite is essential for validating the functionality and performance of our web application. For an in-depth look at the test cases and please refer to our detailed documentation [here for ui](https://github.com/efepisirici/playwright-ts-demoqa/blob/main/e2e/ui/UITestScenariosDescription.md) and  [here for api](https://github.com/efepisirici/playwright-ts-demoqa/blob/main/e2e/api/APITestScenariosDescription.md).
 
 ## Prerequisites 🚀
 
@@ -18,7 +18,7 @@ Before setting up the project, ensure you have the following tools installed:
 
 To get a local copy up and running, follow these simple steps:
 
-1. Clone the repo: `git clone [repository_link]`
+1. Clone the repo: `git clone https://github.com/efepisirici/playwright-ts-demoqa.git`
 2. Navigate to the project directory
 
 ## Installation 🛠️
