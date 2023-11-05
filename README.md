@@ -1,4 +1,4 @@
-# Project Title
+# Playwright Tests with TS for [demoqa](https://demoqa.com/)
 
 Welcome to the playwright-ts-demoqa repository. This suite uses Playwright for end-to-end testing, ensuring high-quality and reliable software delivery.
 
