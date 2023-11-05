@@ -35,7 +35,15 @@ npm install
 3. To run API tests, execute `npm run test:api`
 
 See more options to run tests in the package.json file
-
+## Alternative Usage 
+1. Build the Docker image
+```bash
+docker build -t efe-pisirici-gm-assignment .
+```
+2. Run the Docker container with the tests
+```bash
+docker run efe-pisirici-gm-assignment
+```
 ## Additional information 
 
 📁 Tests are located in /e2e folder
